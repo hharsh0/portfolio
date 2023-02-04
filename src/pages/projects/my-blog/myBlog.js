@@ -92,10 +92,10 @@ export const myBlog = () => {
                 appealing platform. The website is easy to navigate and provides a
                 seamless user experience. With these cutting-edge technologies, I was able
                 to build a scalable and flexible website that is ready to grow with my
-                needs. I'm really happy with the end result as the website effectively
+                needs. I m really happy with the end result as the website effectively
                 showcases my content and connects with my audience. I have a high-quality
                 platform that serves as a powerful tool for my online presence. Overall,
-                I'm impressed with the outcome of the project and I'm sure that my blog
+                I m impressed with the outcome of the project and I m sure that my blog
                 website will continue to thrive in the future.
               </ProjectSectionText>
             </ProjectTextRow>

@@ -21,7 +21,7 @@ const ProfileText = ({ visible, titleId }) => (
       <DecoderText text="Hi there" start={visible} delay={500} />
     </Heading>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Harsh, currently I live in Pune, studying in Army institute of technology. My
+      I m Harsh, currently I live in Pune, studying in Army institute of technology. My
       projects include NextJS, ReactJS, Designs and animations. Being comfortable with
       code allows me to rapidly prototype and validate experiences.
     </Text>
