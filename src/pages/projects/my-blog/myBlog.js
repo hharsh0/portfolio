@@ -37,7 +37,7 @@ const roles = [
   'framer motion',
 ];
 
-export const myBlog = () => {
+export const MyBlog = () => {
   const { themeId } = useTheme();
   const { dispatch } = useAppContext();
 
